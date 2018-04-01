@@ -1,0 +1,10 @@
+C:\Users\Patrick\Projects\ASPNETProjects\Stazo\Stazo.API\bin\Debug\netcoreapp2.0\Stazo.API.deps.json
+C:\Users\Patrick\Projects\ASPNETProjects\Stazo\Stazo.API\bin\Debug\netcoreapp2.0\Stazo.API.runtimeconfig.json
+C:\Users\Patrick\Projects\ASPNETProjects\Stazo\Stazo.API\bin\Debug\netcoreapp2.0\Stazo.API.runtimeconfig.dev.json
+C:\Users\Patrick\Projects\ASPNETProjects\Stazo\Stazo.API\bin\Debug\netcoreapp2.0\Stazo.API.dll
+C:\Users\Patrick\Projects\ASPNETProjects\Stazo\Stazo.API\bin\Debug\netcoreapp2.0\Stazo.API.pdb
+C:\Users\Patrick\Projects\ASPNETProjects\Stazo\Stazo.API\obj\Debug\netcoreapp2.0\Stazo.API.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Projects\ASPNETProjects\Stazo\Stazo.API\obj\Debug\netcoreapp2.0\Stazo.API.AssemblyInfoInputs.cache
+C:\Users\Patrick\Projects\ASPNETProjects\Stazo\Stazo.API\obj\Debug\netcoreapp2.0\Stazo.API.AssemblyInfo.cs
+C:\Users\Patrick\Projects\ASPNETProjects\Stazo\Stazo.API\obj\Debug\netcoreapp2.0\Stazo.API.dll
+C:\Users\Patrick\Projects\ASPNETProjects\Stazo\Stazo.API\obj\Debug\netcoreapp2.0\Stazo.API.pdb
